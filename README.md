@@ -1,6 +1,6 @@
 # Systems Design Architectures For Common Services
 
-[Design a Vaction Rental Service (VRBO)](https://whimsical.com/design-a-vacaction-rental-service-R7yuEJmbLrH89mgGKorgvA)
+[Design a Vacation Rental Service (VRBO)](https://whimsical.com/design-a-vacation-rental-service-R7yuEJmbLrH89mgGKorgvA)
 
 [Design a News Feed Service](https://whimsical.com/design-a-news-feed-service-KgPncgtdneELJtSGMZKLfC)
 
