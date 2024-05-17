@@ -1,8 +1,8 @@
 # Systems Design Architectures For Common Services
 
-[Design a Vacation Rental Service (VRBO)](https://whimsical.com/design-a-vacation-rental-service-R7yuEJmbLrH89mgGKorgvA)
+[Design a Vacation Rental Service](https://whimsical.com/design-a-vacation-rental-service-R7yuEJmbLrH89mgGKorgvA)
 
-[Design a News Feed Service](https://whimsical.com/design-a-news-feed-service-KgPncgtdneELJtSGMZKLfC)
+[Design a Social Media Feed](https://whimsical.com/design-a-social-media-feed-KgPncgtdneELJtSGMZKLfC)
 
 [Design a Ride-Sharing Service (Uber)](https://whimsical.com/design-a-ride-sharing-service-isuxN2QdmJkGB4EhhBz2u)
 
@@ -16,9 +16,9 @@
 
 [Design an API Rate Limiter](https://whimsical.com/design-an-api-rate-limiter-2LzcyzxMuH2Ckb3nUCnZN9)
 
-[Design a Chat / Messenger Service (WhatsApp, Facebook Messenger)](https://whimsical.com/design-a-chat-messenger-service-Xu8zE1dKxZ3jVfwjpULQM9)
+[Design a Chat / Messenger Service](https://whimsical.com/design-a-chat-messenger-service-Xu8zE1dKxZ3jVfwjpULQM9)
 
-[Design a Photo Sharing Service (Instagram)](https://whimsical.com/design-a-photo-sharing-service-EV9i9QmvYfawphGVFAjSK)
+[Design a Photo Sharing Service](https://whimsical.com/design-a-photo-sharing-service-EV9i9QmvYfawphGVFAjSK)
 
 [Design Twitter](https://whimsical.com/design-twitter-8jgDnQNw5mXPM3ody4YgfK)
 
